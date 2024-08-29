@@ -1,0 +1,41 @@
+
+
+h3 {
+    color: #000000;
+}
+li {
+    margin-top: 50px;
+}
+p {
+    color: #114fd5;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: hsl(47, 100%, 50%);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 250px;
+    height: 200px;
+    width: 250px;
+}
+
+button:hover {
+    background-color: #e0189a;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
